@@ -1,0 +1,25 @@
+.gradeContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* width: 90%; */
+    flex-direction: row;
+    margin-top: 10px;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .gradeContainer1{
+    padding-right: 20px;
+  }
+  
+  .gradeContainer2{
+    border: 2px solid gray;
+    width: 50%;
+    height: 30px;
+    border-radius:10px;
+  }
+
+  .gradeContainer3{
+    width: 50%;
+  }

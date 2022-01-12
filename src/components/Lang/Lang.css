@@ -1,0 +1,25 @@
+  .langContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* width: 90%; */
+    flex-direction: row;
+    margin-top: 10px;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .langContainer1{
+    padding-right: 10px;
+  }
+  
+  .langContainer2{
+    border: 2px solid gray;
+    width: 35%;
+    height: 30px;
+    border-radius:10px;
+  }
+  
+  .langContainer3{
+    width: 35%;
+  }

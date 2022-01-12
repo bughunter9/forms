@@ -1,0 +1,21 @@
+.captchaContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    flex-direction: row;
+    margin-top: 10px;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+ .captchaContainer1{
+    padding-right: 20px;
+  }
+  
+.captchaContainer2{
+    border: 2px solid gray;
+    width: 20%;
+    height: 30px;
+    border-radius:10px;
+  }

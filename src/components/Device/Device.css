@@ -1,0 +1,25 @@
+.deviceContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* width: 90%; */
+    flex-direction: row;
+    margin-top: 10px;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .deviceContainer1{
+    padding-right: 20px;
+  }
+  
+  .deviceContainer2{
+    border: 2px solid gray;
+    width: 25%;
+    height: 30px;
+    border-radius:10px;
+  }
+  
+  .deviceContainer3{
+    width: 25%;
+  }

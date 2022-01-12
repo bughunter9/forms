@@ -1,0 +1,53 @@
+.counStateContainer1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.counStateContainer2 , .counStateContainer5{
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+}
+
+.counStateContainer3, .counStateContainer6{
+  padding-right: 20px;
+}
+
+.counStateContainer4, .counStateContainer7{
+    border: 2px solid gray;
+    height: 30px;
+    border-radius:10px;
+}
+
+
+.mobileContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  margin-top: 20px;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.mobileContainer1{
+  padding-right: 20px;
+}
+
+.mobileContainer2{
+  border: 2px solid gray;
+  height: 30px;
+  border-radius:10px;
+  margin-right: 20px;
+}
+
+.mobileContainer3{
+  border: 2px solid gray;
+  border-radius:10px;
+  height: 30px;
+}
